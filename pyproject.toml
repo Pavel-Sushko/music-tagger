@@ -7,8 +7,8 @@ packages = ["src/smart_tagger"]
 
 [project]
 name = "smart-tagger"
-version = "0.0.1"
-dependencies = []
+version = "0.1.0"
+dependencies = ["tinytag"]
 authors = [{ name = "Pavel Sushko", email = "github@psushko.com" }]
 description = "Python utility for editing tags in media files"
 readme = "README.md"
